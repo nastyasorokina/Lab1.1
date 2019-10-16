@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><menu id="file" value="File">
+  <popup>
+    <menuitem onclick="CreateNewDoc()" value="New"/>
+    <menuitem onclick="OpenDoc()" value="Open"/>
+    <menuitem onclick="CloseDoc()" value="Close"/>
+  </popup>
+</menu>
